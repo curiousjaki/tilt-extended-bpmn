@@ -12,8 +12,19 @@ This repository contains the following submodules:
 
 ## Contribution Overview
 ### Camunda Modeler TILT Plug-in
-Click on the following image to view the Video or view the video here: https://youtu.be/Uxc8UhvdOSc
+Click on the following image to view an instruction video or view the video here: https://youtu.be/Uxc8UhvdOSc
 [![Watch the video](./img/UI-Overview.png)](https://youtu.be/Uxc8UhvdOSc)
+
+<video src='https://drive.google.com/file/d/1j4_h_-MH0VmTivxDwemaUoX7OVNf5xPn' width=480 />
+
+Contents:
+- 0:00 Plug-In Installation
+- 2:27 Basic transparency property editing
+- 4:53 Transparency modeling
+- 7:24 Transparency problem resolving
+- 9:41 Transparency modeling assistance
+- 13:16 Transparency icon overlay
+- 14:29 TILT Document creation
 
 ### Transparency Logging Microservice Architecture Example
 ![Architecture overview](./img/Microservice%20Architecture.png)
