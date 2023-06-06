@@ -1,0 +1,9 @@
+[submodule "modeler-plugin"]
+	path = modeler-plugin
+	url = https://github.com/ciphersmaug/tilt-camunda-plugin
+[submodule "transparency-logging-example"]
+	path = transparency-logging-example
+	url = https://github.com/ciphersmaug/transparency-logging
+[submodule "tilt-logging-descriptor"]
+	path = tilt-logging-descriptor
+	url = https://github.com/ciphersmaug/process_tilt_logger
