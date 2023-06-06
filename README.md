@@ -7,8 +7,8 @@ This repository contains the following submodules:
 1. [Modeler Plugin](https://github.com/ciphersmaug/tilt-camunda-plugin/)
 2. [Logging Descriptor](https://github.com/ciphersmaug/process_tilt_logger)
 3. [Transparency logging microservice architecture example](https://github.com/ciphersmaug/transparency-logging)
-    - [Transparency Dashboard](https://github.com/ciphersmaug/transparency-logging/src/mining-dashboard/)
-    - [Demo Data](https://github.com/ciphersmaug/transparency-logging/src/mining-dashboard/app/data/)
+    - [Transparency Dashboard](https://github.com/ciphersmaug/transparency-logging/tree/main/src/mining-dashboard)
+    - [Demo Data](https://github.com/ciphersmaug/transparency-logging/tree/main/src/mining-dashboard/app/data/)
 
 ## Contribution Overview
 ### Camunda Modeler TILT Plug-in
