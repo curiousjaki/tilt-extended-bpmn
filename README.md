@@ -12,7 +12,8 @@ This repository contains the following submodules:
 
 ## Contribution Overview
 ### Camunda Modeler TILT Plug-in
-![Plugin UI](./img/UI-Overview.png)
+
+https://youtu.be/Uxc8UhvdOSc
 
 ### Transparency Logging Microservice Architecture Example
 ![Architecture overview](./img/Microservice%20Architecture.png)
