@@ -11,8 +11,8 @@ This repository contains the following submodules:
     - [Demo Data](https://github.com/ciphersmaug/transparency-logging/tree/main/src/mining-dashboard/app/data/)
 
 ## Contribution Overview
-Click on the following image to view the Thesis Presentation or view the video here: https://youtu.be/RBokwlQGUXc
-[![Watch the video](./img/Presentation%20Extending%20BPMN%20for%20regulatory%20transparency%20compliance.jpg)](https://youtu.be/RBokwlQGUXc)
+Click on the following image to view the Thesis Presentation or view the video here: https://youtu.be/egDUmIrMoeg
+[![Watch the video](./img/Presentation%20Extending%20BPMN%20for%20regulatory%20transparency%20compliance.jpg)](https://youtu.be/egDUmIrMoeg)
 
 
 ### Camunda Modeler TILT Plug-in
