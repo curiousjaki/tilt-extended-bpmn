@@ -12,12 +12,8 @@ This repository contains the following submodules:
 
 ## Contribution Overview
 ### Camunda Modeler TILT Plug-in
+Click on the following image to view the Video or view the video here: https://youtu.be/Uxc8UhvdOSc
 [![Watch the video](./img/UI-Overview.png)](https://youtu.be/Uxc8UhvdOSc)
-Click on the Image to view the Video
-
-```html
-<div style="text-aling: center; margin: auto"><iframe src="http://www.youtube.com/embed/Uxc8UhvdOSc?yt:stretch=16:9&vq=hd720p&loop=0&color=red&iv_load_policy=3&rel=0&showinfo=0&autohide=0&controls=1" width="560" height="315" allowtransparency="true" frameborder="0" ></iframe></div>
-```
 
 ### Transparency Logging Microservice Architecture Example
 ![Architecture overview](./img/Microservice%20Architecture.png)
