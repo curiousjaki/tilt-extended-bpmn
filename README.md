@@ -4,11 +4,11 @@ This is the top-Level repository that overarches the contributions of the "Exten
 ## Repository Contents
 This repository contains the following submodules:
 
-1. [Modeler Plugin](./modeler-plugin/)
-2. [Logging Descriptor](./tilt-logging-descriptor/)
-3. [Transparency logging microservice architecture example](./transparency-logging-example/)
-    - [Transparency Dashboard](./transparency-logging-example/src/mining-dashboard/)
-    - [Demo Data](./transparency-logging-example/src/mining-dashboard/app/data/)
+1. [Modeler Plugin](https://github.com/ciphersmaug/tilt-camunda-plugin/)
+2. [Logging Descriptor](https://github.com/ciphersmaug/process_tilt_logger)
+3. [Transparency logging microservice architecture example](https://github.com/ciphersmaug/transparency-logging)
+    - [Transparency Dashboard](https://github.com/ciphersmaug/transparency-logging/src/mining-dashboard/)
+    - [Demo Data](https://github.com/ciphersmaug/transparency-logging/src/mining-dashboard/app/data/)
 
 ## Contribution Overview
 ### Camunda Modeler TILT Plug-in
