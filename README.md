@@ -14,9 +14,6 @@ This repository contains the following submodules:
 ### Camunda Modeler TILT Plug-in
 Click on the following image to view an instruction video or view the video here: https://youtu.be/Uxc8UhvdOSc
 [![Watch the video](./img/UI-Overview.png)](https://youtu.be/Uxc8UhvdOSc)
-
-<video src='https://drive.google.com/file/d/1j4_h_-MH0VmTivxDwemaUoX7OVNf5xPn' width=480>
-
 Contents:
 - 0:00 Plug-In Installation
 - 2:27 Basic transparency property editing
