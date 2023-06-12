@@ -29,7 +29,17 @@ Video Contents:
 - 14:29 TILT Document creation
 
 ### Transparency Logging Microservice Architecture Example
-![Architecture overview](./img/Microservice%20Architecture.png)
+Click on the following image to view a video of the demo architecture or view the video here: https://youtu.be/LzatJygsSNw
+
+[![Watch the video](./img/Microservice%20Architecture.png)](https://youtu.be/LzatJygsSNw)
+
+Video Contents:
+- 0:00 kubectl & git clone
+- 2:13 System Installation
+- 4:54 Elasticsearch Index
+- 7:16 Jaeger
+- 9:30 Example Query
+- 10:40 Uninstalling
 
 ### Process Transparency Dashboard
 
